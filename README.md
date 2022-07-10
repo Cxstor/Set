@@ -116,6 +116,9 @@ end
 ```
 
 ## Changelog
+**1.1.4**
+- Fixed Bug w/ New Syntax
+
 **1.1.3**
 - Fixed Wally Bugs
 

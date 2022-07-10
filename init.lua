@@ -1,8 +1,4 @@
---[[
-Set
-init.lua
-cizzles
-]]--
+--[[ GO TO https://github.com/Cxstor/Set FOR MORE INFORMATION ]]--
 
 --> CONFIGURE SYNTAX HERE
 local Syntax = "DEFAULT"
@@ -16,7 +12,7 @@ if Syntax == "NEW" then
 		for _,v in List do
 			set[v] = true
 		end
-		return Set
+		return set
 	end
 	return Set
 else
