@@ -7,7 +7,7 @@ In computer science, a set is an abstract data type that can store unique values
 [Read the Docs!](https://www.lua.org/pil/11.5.html)
 
 ### Examples of Sets:
-Using Roster Notation a Mathematical Set can be represented as: 
+Using Roster Notation, a Mathematical Set can be represented as: 
 
 A = {4, 2, 1, 3}
 
@@ -24,6 +24,7 @@ Unlike Python, C#, and several other programming languages, in Luau there is no 
 
 ## Install
 Installation is simple; choose your workflow.
+
 **Roblox Studio Workflow:**
 1. Get [Set](https://www.roblox.com/library/10174561493) from the Roblox Library
 2. Parent Set to ReplicatedStorage
@@ -116,6 +117,9 @@ end
 ```
 
 ## Changelog
+**1.1.5**
+- Updated wally.toml
+
 **1.1.4**
 - Fixed Bug w/ New Syntax
 
