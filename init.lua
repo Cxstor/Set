@@ -1,6 +1,6 @@
 --[[
 Set
-Set.luau
+init.lua
 cizzles
 ]]--
 
@@ -12,9 +12,9 @@ if Syntax == "NEW" then
 --[[ NEW SYNTAX ]]--
 	local Set = {}
 	function Set.new(List)
-		local Set = {}
+		local set = {}
 		for _,v in List do
-			Set[v] = true
+			set[v] = true
 		end
 		return Set
 	end

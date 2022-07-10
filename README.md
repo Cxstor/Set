@@ -116,8 +116,10 @@ end
 ```
 
 ## Changelog
-**1.1.2**
+**1.1.3**
 - Fixed Wally Bugs
+
+**1.1.2**
 - Updated README.md
 
 **1.1.1**
