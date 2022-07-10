@@ -37,7 +37,7 @@ Installation is simple; choose your workflow.
 **Rojo & Wally Workflow:**
 1. Add [Set](https://wally.run/package/cxstor/set) as a [Wally](https://github.com/UpliftGames/wally#installation) Dependency
 
-	`Set = "cxstor/set@1.0.1"`
+	`Set = "cxstor/set@1.1.1"`
 
 2. Use [Rojo](https://rojo.space/docs/v7/getting-started/installation/) to point the Wally Packages to ReplicatedStorage
 3. Require the "Set" Package (ModuleScript) from ReplicatedStorage
@@ -116,8 +116,12 @@ end
 ```
 
 ## Changelog
-**1.0.1**
+**1.1.1**
 - New Syntax Option
+- Updated README.md
+
+**1.0.1**
+- Updated README.md
 
 **1.0.0**
 - Initial Release
