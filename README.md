@@ -7,7 +7,7 @@ In computer science, a set is an abstract data type that can store unique values
 [Read the Docs!](https://www.lua.org/pil/11.5.html)
 
 ### Examples of Sets:
-Using Roster Notation a Mathematical Set can be represented as: 
+Using Roster Notation, a Mathematical Set can be represented as: 
 
 A = {4, 2, 1, 3}
 
