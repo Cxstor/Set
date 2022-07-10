@@ -6,7 +6,7 @@ liscense = "MIT"
 authors = ["Cxstor <cxstor@gmail.com>"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-exclude = ["README.md", "wally.zip", ".gitignore"]
+exclude = ["README.md", "package.zip", ".gitignore"]
 
 [dependencies]
 
