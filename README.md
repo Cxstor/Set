@@ -24,6 +24,7 @@ Unlike Python, C#, and several other programming languages, in Luau there is no 
 
 ## Install
 Installation is simple; choose your workflow.
+
 **Roblox Studio Workflow:**
 1. Get [Set](https://www.roblox.com/library/10174561493) from the Roblox Library
 2. Parent Set to ReplicatedStorage
