@@ -20,7 +20,9 @@ A Singleton Set (or a set that only contains one value) can be represented as:
 A = {x}
 
 ### Why use Sets in Luau?
-Unlike Python, C#, and several other programming languages, in Luau there is no built-in function nor method to check if an item is in a list. Ergo, in Luau, we can just turn our list into a set instead of writing spaghetti code to check if an item is in a list. In Luau, a simple and efficient way to represent a set is to put the set elements as indices in a table. Then, instead of searching a table for a given element, you can just index the table and test whether the result is nil or not. Still confused? Check [Usage](https://github.com/Cxstor/Set#Usage) for an example.
+Unlike Python, C#, and several other programming languages, in Luau there is no built-in function nor method to check if an item is in a list. Ergo, in Luau, we can just turn our list into a set instead of writing spaghetti code to check if an item is in a list. In Luau, a simple and efficient way to represent a set is to put the set elements as indices in a table. Then, instead of searching a table for a given element, you can just index the table and test whether the result is nil or not. 
+
+Still confused? Check [Usage](https://github.com/Cxstor/Set#Usage) for an example.
 
 ## Install
 Installation is simple; choose your workflow.
