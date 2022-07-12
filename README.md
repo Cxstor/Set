@@ -4,7 +4,7 @@ Set is a Luau module and Wally package which returns a function that converts a 
 ## What is a Set?
 In computer science, a set is an abstract data type that can store unique values, without any particular order.
 
-[Read the Docs!](https://www.lua.org/pil/11.5.html)
+Want more information? [Read the Docs!](https://www.lua.org/pil/11.5.html)
 
 ### Examples of Sets:
 Using Roster Notation, a Mathematical Set can be represented as: 
